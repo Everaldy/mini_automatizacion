@@ -1,0 +1,25 @@
+REPORTE DE ANALISIS GANADERO
+==================================================
+
+Total de registros: 59,172
+Total de animales únicos: 6,000
+Total de fincas: 140
+Departamentos: 8
+Municipios: 40
+
+Rango de fechas:
+- Desde: 2024-01-01
+- Hasta: 2026-03-31
+
+Indicadores principales:
+- Peso promedio: 410.28 kg
+- Peso máximo: 695.00 kg
+- Peso mínimo: 40.00 kg
+- Producción promedio de leche: 4.98 L/día
+- Costo promedio de alimentación: 16179.88 COP/día
+
+Alertas:
+- Peso bajo menor a 200 kg: 9328
+- Animales en observación: 2072
+- Alertas distintas de 'Sin novedad': 15566
+- Registros sin peso: 0
